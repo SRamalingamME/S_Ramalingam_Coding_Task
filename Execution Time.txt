@@ -1,0 +1,22 @@
+Execution time (in min) for first 100 URLs: 22.48
+
+Execution time (in min) for second 100 URLs: 21.70
+
+Execution time (in min) for third 100 URLs: 20.76
+
+Execution time (in min) for fourth 100 URLs: 21.53
+
+Execution time (in min) for fifth 100 URLs: 21.66
+
+Execution time (in min) for sixth 100 URLs: 21.96
+
+Execution time (in min) for seventh 100 URLs: 21.74
+
+Execution time (in min) for eighth 100 URLs: 21.20
+
+Execution time (in min) for nineth 100 URLs: 21.71
+
+Execution time (in min) for tenth 100 URLs: 20.39
+
+Total Execution Time for 1000 URLs = 4 Hours 5 minutes and 10 seconds
+
